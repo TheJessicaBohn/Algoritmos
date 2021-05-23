@@ -17,6 +17,27 @@
     - desligue o fogo e passe o café;
   - Fim-Se
 - Fim-Algoritmo
+
+## Variaveis
+- São espaços como uma especie de estante, que representa a memória do computador;
+- Existem vários espaços vazios que podem ser preenchidos por valores;
+- Em cada espaço a ser preenchido com um valor podemo colocar "etiquetas" que são equivalentes aos nomes das varíaveis;
+- Exemplo utilizado em var:
+  - **identificador:tipo**
+- **Regras para nomes:**
+  - 1 Começar com letra;
+  - 2 Os caracteres seguintes, podem ser letras ou números;
+  - 3 O unico simbolo que pode ser utilizado é o "**_**";
+  - 4 Não pode ter espaços em branco;
+  - 5 Não pode ter acentuação;
+  - 6 Não pode ser uma palavra reservada (no caso do visualg são todas as palavras em azul);
+ - **Tipos:**
+  - Inteiro: Não possui a parte fracionária (1; 2; -4; 7; -11; 0)
+  - Real: Possui as parte fracionária (0.5; 3.47; -11.11; 13.0)
+  - Caractere: Texto colocado entre "", ("Olá, mundo", "1234567")
+  - Lógico: Booleano (Verdadeiro e Falso)
+ 
+    
    
     
    
