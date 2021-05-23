@@ -31,7 +31,7 @@
   - 4 Não pode ter espaços em branco;
   - 5 Não pode ter acentuação;
   - 6 Não pode ser uma palavra reservada (no caso do visualg são todas as palavras em azul);
- - **Tipos:**
+- **Tipos:**
   - Inteiro: Não possui a parte fracionária (1; 2; -4; 7; -11; 0)
   - Real: Possui as parte fracionária (0.5; 3.47; -11.11; 13.0)
   - Caractere: Texto colocado entre "", ("Olá, mundo", "1234567")
