@@ -37,6 +37,10 @@
   - Caractere: Texto colocado entre "", ("Olá, mundo", "1234567")
   - Lógico: Booleano (Verdadeiro e Falso)
  
+ ## Comandos:
+ - Escreva e Escreval, são comandos de saída e o segundo pula a linha;
+  - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/primeiro.alg)
+ - Leia comando de entrada de dados
     
    
     
