@@ -41,6 +41,9 @@
  - Escreva e Escreval, são comandos de saída e o segundo pula a linha;
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/primeiro.alg)
  - Leia comando de entrada de dados
+  - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Nome.alg)
+ - Operadores (+,-,/,*)
+  - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Operadores.alg)
     
    
     
