@@ -38,14 +38,18 @@
   - Lógico: Booleano (Verdadeiro e Falso)
  
  ## Comandos:
- - Escreva e Escreval, são comandos de saída e o segundo pula a linha;
+ - **Escreva e Escreval**, são comandos de saída e o segundo pula a linha;
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/primeiro.alg)
- - Leia comando de entrada de dados
+ - **Leia** comando de entrada de dados
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Nome.alg)
- - Operadores (+,-,/,*)
+## Operadores (+,-,/,*)
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Operadores.alg)
- - Funções aritméticas(Abs, Exp, Int, RaizQ, Pi, Sen, Cos, Tan, GraupRad)
+## Funções aritméticas (Abs, Exp, Int, RaizQ, Pi, Sen, Cos, Tan, GraupRad)
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/FuncoesArtimeticas.alg) e [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Conversor.alg)
-   
-    
+ ## Operadores Relacionais (>, <, >=, <=, =, <>)
+ - Criam relação entre variaveis ou expressão, e retornam valor verdadeiro ou falso
+  - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/OperadoresRelacionais.alg)
+ ## Operadores Lógicos(E, Ou, Nao)
+ - Comparam apenas valores finais
+  - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/OperadoresLogicos.alg)
    
