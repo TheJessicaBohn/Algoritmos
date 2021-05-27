@@ -52,4 +52,8 @@
  ## Operadores Lógicos(E, Ou, Nao)
  - Comparam apenas valores finais
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/OperadoresLogicos.alg)
+ ## Ordem de precedência
+ - Aritméticos - (), ^, */, +-
+ - Relacionais - Todos na ordem da esquerda para a direita
+ - Lógicos - E, Ou, Não
    
