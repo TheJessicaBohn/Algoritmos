@@ -44,7 +44,8 @@
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Nome.alg)
  - Operadores (+,-,/,*)
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Operadores.alg)
-    
+ - Funções aritméticas(Abs, Exp, Int, RaizQ, Pi, Sen, Cos, Tan, GraupRad)
+  - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/FuncoesArtimeticas.alg) e [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Conversor.alg)
    
     
    
