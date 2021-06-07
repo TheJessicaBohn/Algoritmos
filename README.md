@@ -5,6 +5,7 @@
 ## O que será utilizado:
 - Portugol;
 - [Visualg;](https://sourceforge.net/projects/visualg30/)
+- [Scratch](https://scratch.mit.edu/download/scratch2);
 
 ### Ex: 
 - Algoritmo para fazer café
@@ -18,7 +19,9 @@
   - Fim-Se
 - Fim-Algoritmo
 
-## Variaveis
+## Visualg
+
+### Variaveis
 - São espaços como uma especie de estante, que representa a memória do computador;
 - Existem vários espaços vazios que podem ser preenchidos por valores;
 - Em cada espaço a ser preenchido com um valor podemo colocar "etiquetas" que são equivalentes aos nomes das varíaveis;
@@ -37,24 +40,28 @@
   - Caractere: Texto colocado entre "", ("Olá, mundo", "1234567")
   - Lógico: Booleano (Verdadeiro e Falso)
  
- ## Comandos:
+ ### Comandos:
  - **Escreva e Escreval**, são comandos de saída e o segundo pula a linha;
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/primeiro.alg)
  - **Leia** comando de entrada de dados
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Nome.alg)
-## Operadores (+,-,/,*)
+### Operadores (+,-,/,*)
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Operadores.alg)
-## Funções aritméticas (Abs, Exp, Int, RaizQ, Pi, Sen, Cos, Tan, GraupRad)
+### Funções aritméticas (Abs, Exp, Int, RaizQ, Pi, Sen, Cos, Tan, GraupRad)
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/FuncoesArtimeticas.alg) e [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Conversor.alg)
- ## Operadores Relacionais (>, <, >=, <=, =, <>)
+ ### Operadores Relacionais (>, <, >=, <=, =, <>)
  - Criam relação entre variaveis ou expressão, e retornam valor verdadeiro ou falso
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/OperadoresRelacionais.alg)
- ## Operadores Lógicos(E, Ou, Nao)
+ ### Operadores Lógicos(E, Ou, Nao)
  - Comparam apenas valores finais
   - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/OperadoresLogicos.alg)
- ## Ordem de precedência
+ ### Ordem de precedência
  - Aritméticos - (), ^, */, +-
  - Relacionais - Todos na ordem da esquerda para a direita
  - Lógicos - E, Ou, Não
  - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Triangulos.alg)
+
+## Scratch
+- [Olá Mundo](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Scratch/OlaMundo.sb2)
+- [Soma + passos](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Scratch/Soma.sb2)
    
