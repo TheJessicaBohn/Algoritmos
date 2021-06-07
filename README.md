@@ -56,4 +56,5 @@
  - Aritméticos - (), ^, */, +-
  - Relacionais - Todos na ordem da esquerda para a direita
  - Lógicos - E, Ou, Não
+ - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Triangulos.alg)
    
