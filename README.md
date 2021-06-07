@@ -1,6 +1,6 @@
 # Algoritmos
 
-## Algoritmos são conjuntos de passos finitos e organizados que, quando executados, resolvem  um determinado problema. Manzano (Algoritmos Lógica para desenvolvimento de programação de computadores)
+**Algoritmos são conjuntos de passos finitos e organizados que, quando executados, resolvem  um determinado problema. Manzano (Algoritmos Lógica para desenvolvimento de programação de computadores)**
 
 ## O que será utilizado:
 - Portugol;
