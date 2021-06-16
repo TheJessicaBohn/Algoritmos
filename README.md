@@ -64,4 +64,5 @@
 ## Scratch
 - [Olá Mundo](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Scratch/OlaMundo.sb2)
 - [Soma + passos](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Scratch/Soma.sb2)
+- [Mini Game](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Scratch/MiniGame.sb2)
    
