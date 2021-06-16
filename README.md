@@ -61,8 +61,18 @@
  - Lógicos - E, Ou, Não
  - Veja o uso [aqui](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Triangulos.alg)
 
+### Exercícios:
+- [Idade](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Idade.alg)
+- [Moeda](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Moeda.alg)
+- [Temperatura](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Temperatura.alg)
+- [Imposto](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Exercicios/Imposto.alg)
+
 ## Scratch
 - [Olá Mundo](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Scratch/OlaMundo.sb2)
 - [Soma + passos](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Scratch/Soma.sb2)
 - [Mini Game](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Scratch/MiniGame.sb2)
+- [Idade](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Scratch/Idade.sb2)
+- [Moeda](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Scratch/Moeda.sb2)
+- [Temperatura](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Scratch/Temperatura.sb2)
+- [Imposto](https://github.com/TheJessicaBohn/Algoritmos/blob/main/Scratch/Imposto.sb2)
    
